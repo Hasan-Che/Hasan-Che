@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Allow me to introduce myself, I'm Hasan, a full-time Data Engineering student 🧑‍🎓, self-diagnosed coffee addict ☕, and tech enthusiast 📺.</div>  
   
 
